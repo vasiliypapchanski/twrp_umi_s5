@@ -1,0 +1,9 @@
+ro.build.product=S5_Pro
+ro.product.system.brand=UMIDIGI
+ro.product.system.device=S5_Pro
+ro.product.system.manufacturer=UMIDIGI
+ro.product.system.model=S5_Pro
+ro.product.system.name=S5_Pro_EEA
+ro.fota.platform=MTK6785_10.0
+ro.system.build.fingerprint=UMIDIGI/S5_Pro_EEA/S5_Pro:10/QP1A.190711.020/1593685655:user/release-keys
+ro.product.cpu.abi=arm64-v8a
